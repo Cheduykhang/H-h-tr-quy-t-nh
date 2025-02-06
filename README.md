@@ -6,7 +6,7 @@
 - We focus on researching the content and the working principles of the algorithms, techniques, 
   and models presented in this section, as well as their role in decision-making and 
   significance.
-- Additionally, we implement illustrative programs for the algorithms.
+- Additionally, we implement illustrative programs for the algorithms (alternative optimization).
 
 ##
 "Algorithms for Decision Making" by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray is an academic book that provides a comprehensive introduction to algorithms used for decision-making under uncertainty. It combines concepts from Artificial Intelligence (AI), Reinforcement Learning (RL), Decision Theory, and Optimization to address sequential decision-making problems.

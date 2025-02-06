@@ -1,6 +1,6 @@
 # Topic: **Policy Search in Decision Making**
 
-Purpose:
+## Purpose:
 - Researching Section 10: Policy Search at page 235/700 from the book -Algorithms for Decision 
   Making. 
 - We focus on researching the content and the working principles of the algorithms, techniques, 
@@ -8,6 +8,7 @@ Purpose:
   significance.
 - Additionally, we implement illustrative programs for the algorithms.
 
+##
 "Algorithms for Decision Making" by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray is an academic book that provides a comprehensive introduction to algorithms used for decision-making under uncertainty. It combines concepts from Artificial Intelligence (AI), Reinforcement Learning (RL), Decision Theory, and Optimization to address sequential decision-making problems.
 
 ## Policy Search

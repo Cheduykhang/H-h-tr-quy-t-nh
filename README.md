@@ -1,8 +1,7 @@
 # Topic: **Policy Search in Decision Making**
 
 ## Purpose:
-- Researching Section 10: Policy Search at page 235/700 from the book -Algorithms for Decision 
-  Making. 
+- Researching Section 10: Policy Search at page 235/700 from the book -Algorithms for Decision Making. 
 - We focus on researching the content and the working principles of the algorithms, techniques, 
   and models presented in this section, as well as their role in decision-making and 
   significance.
